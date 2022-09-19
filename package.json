@@ -1,0 +1,15 @@
+{
+  "name": "cypress-cloud-app",
+  "version": "1.0.0",
+  "description": "Take Home Test",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^6.3.1",
+    "cypress": "^10.8.0"
+  }
+}
